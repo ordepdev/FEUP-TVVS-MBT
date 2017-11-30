@@ -47,3 +47,8 @@ hs_err_pid*
 *.pre
 *.snm
 *.vrb
+
+.idea
+*.dat
+*.iml
+*.tmp
